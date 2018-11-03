@@ -4,11 +4,19 @@ body {
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: 'Righteous', cursive;
     font-size: 70px;
-    margin: 0.2em;
+    margin: 0.6em;
 }
-
+.one{
+    color: #bcbcff;
+}
+.two{
+    color: #9494d2;
+}
+.three{
+    color: #7676d0;
+}
 h2 {
     margin: 1em 0 0.25em;
 }
